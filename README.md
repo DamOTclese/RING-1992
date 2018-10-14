@@ -1,0 +1,2 @@
+# RING-1992
+1992. C program. Sounds audio tone when Ring Indicator goes active on the specific COM port.  Comes with source code. This was useful for BBS systems where TSRs -- Terminate Stay Resident -- programs on old computers used to rule the day. On a BBS, you did not know a call was coming in if the MODEM was silent and there was no phone ringer, so the computer could be made to sound off when an inbound call was coming.
